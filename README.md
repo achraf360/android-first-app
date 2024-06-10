@@ -1,29 +1,22 @@
 
 
-<h1>Mobile ChatBot App with Flutter and Gemini API</h1>
+<h1>First Mobile App Java TP</h1>
 <table>
     <tr>
         <td>
-            <img src="screenshots/login_page.png">
+            <img src="/app/src/main/res/screenshots/screen1.png">
         </td>
         <td>
-            <img src="screenshots/login_page2.png">
+            <img src="/app/src/main/res/screenshots/screen2.png">
         </td>
         <td>
-            <img src="screenshots/chatbot_page.png">
+            <img src="/app/src/main/res/screenshots/screen3.png">
+        </td>
+        <td>
+            <img src="/app/src/main/res/screenshots/screen4.png">
         </td>
     </tr>
-    <tr>
-        <td>
-            <img src="screenshots/chatbot_page2.png">
-        </td>
-        <td>
-            <img src="screenshots/chatbot_page3.png">
-        </td>
-        <td>
-            <img src="screenshots/chatbot_page4.png">
-        </td>
-    </tr>
+
 </table>
 
 
